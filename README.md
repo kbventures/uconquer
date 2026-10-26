@@ -46,7 +46,7 @@ Plus a Chrome extension (Manifest V3) for job capture.
 I designed and built UConquer end to end:
 
 - Product design and UX
-- Full-stack app: 29 modules, 117 versioned database migrations, account-scoped data from day one
+- Full-stack app: 29 modules, account-scoped data from day one
 - Chrome extension for job alerts and sent-proposal logging
 - AI drafting pipeline with provider fallback and cost control
 - Testing: more than 1,200 unit tests, plus route, database, API, and browser tests
